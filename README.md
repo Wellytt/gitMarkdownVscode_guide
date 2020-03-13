@@ -46,6 +46,6 @@ void main(){
 ## Typora
 
 1. 所见即所得的 Markdown 编辑工具 [Typora](http://typora.io/)。
-2. 本课程的编辑全部由  [Typora](http://typora.io/) 和  [vscode](https://code.visualstudio.com/) 完成。
+2. 本课程的编辑全部由  [Typora](http://typora.io/) 和  [vscode](https://code.visualstudio.com/)  完成。
 
 > 使用课程时有任何问题和建议，请及时与我们联系，请 pull request 。
